@@ -1,1 +1,15 @@
-Just want to add guile to tmux.
+# Description
+  Just want to add guile to tmux. 
+  * guile: http://gnu.org/software/guile
+  * tmux: https://github.com/tmux/tmux
+
+  And running guile functions by pressing shortcut key.
+
+# How to build
+  TODO
+
+# TODO
+  1. add libguile
+  2. add makefile
+  3. change init file with guile scheme
+  4. bind key to guile implemented function
